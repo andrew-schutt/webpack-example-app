@@ -1,1 +1,3 @@
-alert(require('./module'));
+let requiredModule = require('./module');
+
+alert(requiredModule);
