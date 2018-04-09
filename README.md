@@ -1,6 +1,8 @@
 # webpack-example-app
 
-`npm i`
+`npm install`
+
+`npm install webpack webpack-cli -g`
 
 `webpack --mode development`
 

@@ -1,5 +1,5 @@
 function helloFromModule(){
-    return 'Hello from required module!!!!!!!';
+    return 'Hello from required module';
 }
 
 module.exports = helloFromModule();
